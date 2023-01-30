@@ -1,0 +1,30 @@
+﻿/*my css*/
+body {
+    ;
+    text-align: center;
+}
+
+h2{
+    color:darkgreen;
+    font-size: 25px;
+}
+
+label {
+    display: inline-block;
+    font-size: 15px;
+    width: 150px;
+    line-height: 50px;
+    font-family: "Lucida Console", "Courier New", monospace
+}
+button {
+    display: inline-block;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    line-height: 
+}
+
+
+ul {
+    list-style-position: inside;
+}
